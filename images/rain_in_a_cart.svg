@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 361 195" style="enable-background:new 0 0 361 195;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#000000;stroke-width:3;stroke-miterlimit:10;stroke-dasharray:8,5;}
+	.st1{fill:#FFFFFF;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st2{fill:#FFFFFF;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.st3{fill:#FFFFFF;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st4{fill:#FFFFFF;}
+	.st5{fill:none;stroke:#000000;stroke-width:1.5;stroke-miterlimit:10;}
+	.st6{font-family:'TimesNewRomanPSMT';}
+	.st7{font-size:18px;}
+	.st8{fill:#010101;}
+	.st9{font-family:'TimesNewRomanPS-ItalicMT';}
+	.st10{font-size:24px;}
+</style>
+<line class="st0" x1="116" y1="125" x2="224" y2="125.5"/>
+<line class="st1" x1="117" y1="125" x2="117" y2="160.5"/>
+<line class="st1" x1="116" y1="160.5" x2="224" y2="160.5"/>
+<line class="st1" x1="223" y1="160.5" x2="223" y2="125.5"/>
+<circle class="st1" cx="141" cy="168" r="7.5"/>
+<circle class="st1" cx="195.5" cy="168" r="7.5"/>
+<line class="st2" x1="21" y1="178.5" x2="347.5" y2="179"/>
+<ellipse class="st3" cx="173" cy="15.5" rx="3" ry="7.5"/>
+<ellipse class="st3" cx="173" cy="36" rx="3" ry="7.5"/>
+<ellipse class="st3" cx="173" cy="61.5" rx="3" ry="7.5"/>
+<ellipse class="st3" cx="173" cy="83.5" rx="3" ry="7.5"/>
+<ellipse class="st3" cx="173" cy="104.5" rx="3" ry="7.5"/>
+<ellipse class="st3" cx="173" cy="122.5" rx="3" ry="7.5"/>
+<ellipse class="st3" cx="126" cy="143" rx="7.5" ry="3"/>
+<ellipse class="st3" cx="133.5" cy="149" rx="7.5" ry="3"/>
+<ellipse class="st3" cx="148.5" cy="146" rx="7.5" ry="3"/>
+<ellipse class="st3" cx="163.5" cy="152" rx="7.5" ry="3"/>
+<ellipse class="st3" cx="176" cy="146" rx="7.5" ry="3"/>
+<ellipse class="st3" cx="191.8" cy="152" rx="7.5" ry="3"/>
+<ellipse class="st3" cx="207.5" cy="143" rx="7.5" ry="3"/>
+<ellipse class="st3" cx="212.5" cy="152" rx="7.5" ry="3"/>
+<g>
+	<line class="st4" x1="245" y1="139" x2="292.5" y2="139"/>
+	<g>
+		<line class="st5" x1="245" y1="139" x2="280.3" y2="139"/>
+		<g>
+			<path d="M277.6,139l-3.3-5.4l0.2-0.1l8.8,3.5c3.1,0.7,6.1,1.4,9.2,2c-3.1,0.7-6.1,1.4-9.2,2l-8.8,3.5l-0.2-0.1L277.6,139z"/>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 244 70.5)" class="st6 st7">rain</text>
+<g>
+	<line x1="249" y1="78" x2="220" y2="95"/>
+	<g>
+		<line class="st5" x1="249" y1="78" x2="230.5" y2="88.8"/>
+		<g>
+			<path d="M232.9,87.5l5.6,3l-0.1,0.2l-9.4,1.4c-3,1-6,1.9-9,2.9c2.3-2.1,4.6-4.3,6.9-6.4l5.8-7.5l0.2,0L232.9,87.5z"/>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 259.75 130)" class="st8 st9 st10">v</text>
+<text transform="matrix(1 0 0 1 10 104.5)" class="st6 st7">frictionless</text>
+<g>
+	<line x1="41" y1="115" x2="62.5" y2="170.5"/>
+	<g>
+		<line class="st5" x1="41" y1="115" x2="58.1" y2="159.1"/>
+		<g>
+			<path d="M57.1,156.6l3.9-5l0.2,0.1l-0.1,9.5c0.5,3.1,1,6.2,1.4,9.3c-1.7-2.6-3.5-5.2-5.2-7.9l-6.4-7l0-0.2L57.1,156.6z"/>
+		</g>
+	</g>
+</g>
+<ellipse class="st3" cx="139" cy="63" rx="3" ry="7.5"/>
+<ellipse class="st3" cx="139" cy="83.5" rx="3" ry="7.5"/>
+<ellipse class="st3" cx="139" cy="109" rx="3" ry="7.5"/>
+<ellipse class="st3" cx="139" cy="131" rx="3" ry="7.5"/>
+<ellipse class="st3" cx="205" cy="39.5" rx="3" ry="7.5"/>
+<ellipse class="st3" cx="205" cy="65" rx="3" ry="7.5"/>
+<ellipse class="st3" cx="205" cy="87" rx="3" ry="7.5"/>
+<ellipse class="st3" cx="205" cy="108" rx="3" ry="7.5"/>
+<ellipse class="st3" cx="205" cy="126" rx="3" ry="7.5"/>
+</svg>
